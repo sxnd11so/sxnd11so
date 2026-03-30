@@ -2,7 +2,7 @@
 
 # Hey, I'm Sandiso 👋
 
-**Frontend Developer · South Africa 🇿🇦**
+**Software Developer · South Africa 🇿🇦**
 
 Turning ideas into clean, functional interfaces — one commit at a time.
 
@@ -35,17 +35,6 @@ Turning ideas into clean, functional interfaces — one commit at a time.
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-![Sandiso's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true)
-
-</div>
-
----
 
 <div align="center">
 
