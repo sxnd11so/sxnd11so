@@ -4,7 +4,7 @@
 
 **Software Developer · South Africa 🇿🇦**
 
-Turning ideas into clean, functional interfaces — one commit at a time.
+Studying BIS · Building with Python & SQL · Project-driven · Open to dev & analyst roles
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sandiso-thebe-2476aa394/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/s.x.n.d.iii.s.o)
@@ -16,8 +16,10 @@ Turning ideas into clean, functional interfaces — one commit at a time.
 ## 🧑‍💻 About Me
 
 - 🌍 Based in **South Africa**
-- 🎯 Focused on building clean, user-friendly web experiences
-- 🌱 Always learning and levelling up my craft
+- 📚 Studying **Business Information Systems (BIS)**
+- 🐍 Currently building with **Python & SQL**
+- 🛠️ Project-driven learner — I build things to understand them
+- 🎯 Open to **developer** and **analyst** roles
 - ⚡ Fun fact: I go by **Sandiii** — the extra i's are intentional
 
 ---
